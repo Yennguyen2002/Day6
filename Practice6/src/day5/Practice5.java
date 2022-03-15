@@ -6,7 +6,7 @@ public class Practice5 {
 
 	public static void main(String[] args) 
 	{
-				//Uoc so le
+				/*//Uoc so le
 				System.out.println("Enter an number:");
 				Scanner sc = new Scanner(System.in);
 				int n = sc.nextInt();
@@ -39,8 +39,9 @@ public class Practice5 {
 				System.out.println("First number : " + first);
 				//Cau 3 -- DONE
 				int UCNN = checkUCNN(n);
-				System.out.println("UCNN : " + UCNN);
+				System.out.println("UCNN : " + UCNN);*/
 		
+		System.out.println("DEMO");
 	}
 
 	public static int checkUCNN(int n3)
